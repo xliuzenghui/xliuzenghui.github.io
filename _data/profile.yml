@@ -3,12 +3,12 @@ secondary_name: ""
 navbar_name: " 我的生活就亲像大海（My life is akin to the vast ocean.）"
 
 positions:
-- logo: /assets/images/badges/TJU_Social_circle.png  # Logo is optional
-  name: Tianjin University
-- name: School of Future Technology
+- logo: /assets/images/badges/UBC.webp  # Logo is optional
+  name: University of British Columbia
+- name: School of Engineering
 
 
-email: "liuzenghui0608@163.com"
+email: "liuzenghui0608@gmail.com"
 #cv_link: /assets/Zenghui-Liu-CV.pdf
 gscholar: c-_uHvsAAAAJ  # This is an example, replace it with your own Google Scholar ID
 Wechat: Uglyllliiiu
@@ -17,7 +17,7 @@ Wechat: Uglyllliiiu
 wechat_qrcode: /assets/images/etc/wechat.png
 wechat_prompt: >-
    I am looking for all opportunities to cooperate and exchange, I hope to make friends with you, thank you!
-# linkedin: your-linked-in-id
+linkedin: zenghui-liu-691b4a288
 orcid: 0009-0002-7000-5248
 
 short_bio_text_justify: false
@@ -25,7 +25,7 @@ short_bio: >-
  
   <p>
     你好, Hello, こんにちは, Bonjour, Привет, Hallo, مرحبا, नमस्ते, 안녕하세요, Ciao.
-  I'm Liu Zenghui. I'm a incoming PhD student at <a href="https://www.ubc.ca/">University of British Columbia</a>. My supervisors are <a href="https://engineering.ok.ubc.ca/about/contact/kasun-hewage/">Kasun Hewage</a> and <a href="https://engineering.ok.ubc.ca/about/contact/rehan-sadiq/">Rehan Sadiq</a>.I completed my master's studies at the <a href="https://tiei2014.tju.edu.cn/">School of Future Technology</a>, <a href="http://www.tju.edu.cn">Tianjin University</a>, and the supervisor of my master's program is Professor <a href="https://arch.tju.edu.cn/info/1186/3163.htm">Gang Liu</a>. <strong>Recently, I devote myself to research on resilience, sustainability, and equity of complex urban systems.</strong>  In my spare time, I play basketball, table tennis, Guan Dan (a kind of card game), listen to music, and play the guitar (for indie music lovers).
+  I'm Liu Zenghui. I'm a incoming PhD student at <a href="https://www.ubc.ca/">University of British Columbia</a>. My supervisors are <a href="https://engineering.ok.ubc.ca/about/contact/kasun-hewage/">Kasun Hewage</a> and <a href="https://engineering.ok.ubc.ca/about/contact/rehan-sadiq/">Rehan Sadiq</a>.Recently, I am a Part-time Research Assistant at Peking University, supervised by <a href="https://ues.pku.edu.cn/jszy/wzc/wzcgrjl/4dfe7d9067274cd0b69560e7fe145900.htm">Prof.Zhecheng Wang</a>. I completed my master's studies at the <a href="https://tiei2014.tju.edu.cn/">School of Future Technology</a>, <a href="http://www.tju.edu.cn">Tianjin University</a>, and the supervisor of my master's program is Professor <a href="https://arch.tju.edu.cn/info/1186/3163.htm">Gang Liu</a>. <strong>In the Future, I will devote myself to research on resilience, sustainability, and equity of complex urban systems.</strong>  In my spare time, I play basketball, table tennis, Guan Dan (a kind of card game), listen to music, and play the guitar (for indie music lovers).
   </p>
 
 
@@ -52,6 +52,9 @@ education:
   date: Sep. 2019 - Jul. 2023
 
 experience:
+ - name: Peking University
+   logo: /assets/images/badges/PKU_red.png
+   position: Research Assistant
  - name: China Construction Eighth Engineering Division
    logo: /assets/images/badges/CCEE.png
    position: Project Manager Assistant
