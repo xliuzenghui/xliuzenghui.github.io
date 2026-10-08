@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: " 我的生活就亲像大海（My life is akin to the vast ocean.）"
 
 positions:
-- logo: /assets/images/badges/UBC.webp  # Logo is optional
-  name: University of British Columbia
-- name: School of Engineering
+- logo: /assets/images/badges/PKU_red.pngp  # Logo is optional
+  name: Peking University
+- name: Research Assistant 
 
 
 email: "liuzenghui0608@gmail.com"
