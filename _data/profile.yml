@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: " 我的生活就亲像大海（My life is akin to the vast ocean.）"
 
 positions:
-- logo: /assets/images/badges/PKU_red.pngp  # Logo is optional
+- logo: /assets/images/badges/PKU_red.png  # Logo is optional
   name: Peking University
 - name: Research Assistant 
 
